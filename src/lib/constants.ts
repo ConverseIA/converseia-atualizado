@@ -100,7 +100,7 @@ export const PLANS_AVALIABLE = [
       'Agente de consulta de processo',
 	  'FUP Personalizado'
       'Bônus de R$300 de API para até 4.000 mil mensagens enviadas pelo seu Agente',
-	  'Bônus de R$150 de API para as consultas dos processos'
+	  'Bônus de R$150 de API para as consultas dos processos',
     ],
     buttonText: 'Teste grátis 7 dias',
   },
