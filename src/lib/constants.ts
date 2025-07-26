@@ -70,13 +70,12 @@ export const CHARGES_AVALIABLE = [
 export const PLANS_AVALIABLE = [
   {
     title: 'Escritório Essencial',
-    monthlyPrice: 700,
+    monthlyPrice: 687, // Preço atualizado
     periods: [
-      { months: 1, discount: 0, label: '1 mes', installments: 1 },
-      { months: 3, discount: 0.05, label: '3 meses', installments: 3 },
-      { months: 6, discount: 0.10, label: '6 meses', installments: 6 },
-      { months: 9, discount: 0.15, label: '9 meses', installments: 9 },
+      // Opção de 1 ano agora é a primeira (índice 0)
       { months: 12, discount: 0.20, label: '1 ano', installments: 12 },
+      { months: 6, discount: 0.10, label: '6 meses', installments: 6 },
+      { months: 1, discount: 0, label: '1 mês', installments: 1 },
     ],
     list: [
       'Até 5 acessos e 5 mil contatos na plataforma',
@@ -89,13 +88,12 @@ export const PLANS_AVALIABLE = [
   },
   {
     title: 'Escritório Avançado',
-    monthlyPrice: 999,
+    monthlyPrice: 987, // Preço atualizado
     periods: [
-      { months: 1, discount: 0, label: '1 mês', installments: 1 },
-      { months: 3, discount: 0.05, label: '3 meses', installments: 3 },
-      { months: 6, discount: 0.10, label: '6 meses', installments: 6 },
-      { months: 9, discount: 0.15, label: '9 meses', installments: 9 },
+      // Opção de 1 ano agora é a primeira (índice 0)
       { months: 12, discount: 0.20, label: '1 ano', installments: 12 },
+      { months: 6, discount: 0.10, label: '6 meses', installments: 6 },
+      { months: 1, discount: 0, label: '1 mês', installments: 1 },
     ],
     list: [
       'Tudo do plano Escritório Essencial, mais:',
