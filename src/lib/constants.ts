@@ -145,7 +145,7 @@ export const LINK_NAVIGATE = [
 		label: 'Documentação',
 	},
 	{
-		href: 'https://parceria.converseia.com/parceria',
+		href: 'https://parceria.converseia.com',
 		label: 'Parceiros',
 	},
 ];
