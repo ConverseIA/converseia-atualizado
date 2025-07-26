@@ -98,7 +98,7 @@ export const PLANS_AVALIABLE = [
     list: [
       'Tudo do plano Escritório Essencial, mais:',
       'Agente de consulta de processo',
-	  'FUP Personalizado'
+	  'FUP Personalizado',
       'Bônus de R$300 de API para até 4.000 mil mensagens enviadas pelo seu Agente',
 	  'Bônus de R$150 de API para as consultas dos processos',
     ],
