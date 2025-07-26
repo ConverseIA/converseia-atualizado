@@ -82,7 +82,7 @@ export const PLANS_AVALIABLE = [
       'WhatsApp QR Code, WhatsApp Oficial, Instagram/Direct e mais',
       'Todos os recursos avançados da plataforma + CRM Jurídico',
       'Agente SDR',
-      '4 tentativas de Follow-UP (FUP) fluido e personalizado',
+      '2 tentativas de Follow-UP (FUP) fluido e personalizado',
       'Bônus de R$300 de API para até 4.000 mil mensagens enviadas pelo seu Agente',
     ],
   },
@@ -98,7 +98,9 @@ export const PLANS_AVALIABLE = [
     list: [
       'Tudo do plano Escritório Essencial, mais:',
       'Agente de consulta de processo',
+	  'FUP Personalizado'
       'Bônus de R$300 de API para até 4.000 mil mensagens enviadas pelo seu Agente',
+	  'Bônus de R$150 de API para as consultas dos processos'
     ],
     buttonText: 'Teste grátis 7 dias',
   },
