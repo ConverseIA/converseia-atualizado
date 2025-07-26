@@ -72,7 +72,7 @@ export const PLANS_AVALIABLE = [
     title: 'Escritório Essencial',
     monthlyPrice: 700,
     periods: [
-      { months: 1, discount: 0, label: '1 mês', installments: 1 },
+      { months: 1, discount: 0, label: '1 mes', installments: 1 },
       { months: 3, discount: 0.05, label: '3 meses', installments: 3 },
       { months: 6, discount: 0.10, label: '6 meses', installments: 6 },
       { months: 9, discount: 0.15, label: '9 meses', installments: 9 },
